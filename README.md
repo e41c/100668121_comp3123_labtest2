@@ -28,3 +28,11 @@ This React application, named `100668121_comp3123_labtest2`, is designed to fetc
    ```bash
    git clone https://github.com/YOUR_USERNAME/studentId_comp3123_labtest2.git
    cd 100668121_comp3123_labtest2
+
+## Screenshots
+
+![Screenshot 1](screenshots/ss1.png)
+*Shows Toronto in search , with updated icon depending on the weather, and temperature, humidity, and wind speed.*
+
+![Screenshot 2](screenshots/ss2.png)
+*Shows newyork, proving search is working, and pulling up different results for all parameters*
