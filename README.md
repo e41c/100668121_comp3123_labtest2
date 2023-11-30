@@ -26,7 +26,7 @@ This React application, named `100668121_comp3123_labtest2`, is designed to fetc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/studentId_comp3123_labtest2.git
+   git clone https://github.com/e41c/100668121_comp3123_labtest2.git
    cd 100668121_comp3123_labtest2
 
 ## Screenshots
